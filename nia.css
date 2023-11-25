@@ -19,7 +19,7 @@ body{
 .hatdog-1{
     font-size: 13px;
     line-height: 10px;
-    background: url(IMG_0544.JPG);
+    background: url(/IMG_0544.JPG);
     background-attachment: center;
     -webkit-background-size:cover;
     background-size: cover;
@@ -32,7 +32,7 @@ body{
 .hatdog{
     font-size: 13px;
     line-height: 10px;
-    background: url(IMG_0346.JPG);
+    background: url(/IMG_0346.JPG);
     background-attachment: center;
     -webkit-background-size:cover;
     background-size: cover;
@@ -45,7 +45,7 @@ body{
 .hatdog-2{
     font-size: 13px;
     line-height: 10px;
-    background: url(IMG_0545.JPG);
+    background: url(/IMG_0545.JPG);
     background-attachment: center;
     -webkit-background-size:cover;
     background-size: cover;

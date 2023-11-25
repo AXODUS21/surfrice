@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+body{
+    max-width: 1920px;
+    max-height: 1000px;
+    font-family: 'Poppins', 'sans-serif';
+    display: center;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-align: justify;
+    background-color: rgb(2,2,2);
+}
+.hatdog-1{
+    font-size: 13px;
+    line-height: 10px;
+    background: url(pictur/IMG_0544.JPG);
+    background-attachment: center;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-attachment: center;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+}
+.hatdog{
+    font-size: 13px;
+    line-height: 10px;
+    background: url(pictur/IMG_0346.JPG);
+    background-attachment: center;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-attachment: center;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+}
+.hatdog-2{
+    font-size: 13px;
+    line-height: 10px;
+    background: url(pictur/IMG_0545.JPG);
+    background-attachment: center;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-attachment: center;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+}
